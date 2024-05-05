@@ -1,0 +1,48 @@
+{
+  "node_modules/bootstrap-icons/font/fonts/bootstrap-icons.woff": {
+    "file": "assets/bootstrap-icons-999550fa.woff",
+    "src": "node_modules/bootstrap-icons/font/fonts/bootstrap-icons.woff"
+  },
+  "node_modules/bootstrap-icons/font/fonts/bootstrap-icons.woff2": {
+    "file": "assets/bootstrap-icons-cfe45b98.woff2",
+    "src": "node_modules/bootstrap-icons/font/fonts/bootstrap-icons.woff2"
+  },
+  "resources/images/atas.png": {
+    "file": "assets/atas-f7de09f0.png",
+    "src": "resources/images/atas.png"
+  },
+  "resources/images/ban.png": {
+    "file": "assets/ban-88a2fd3f.png",
+    "src": "resources/images/ban.png"
+  },
+  "resources/images/bawah.png": {
+    "file": "assets/bawah-7a878466.png",
+    "src": "resources/images/bawah.png"
+  },
+  "resources/images/hero-img.png": {
+    "file": "assets/hero-img-9dfebb97.png",
+    "src": "resources/images/hero-img.png"
+  },
+  "resources/images/laravel.png": {
+    "file": "assets/laravel-1937c3ce.png",
+    "src": "resources/images/laravel.png"
+  },
+  "resources/images/profile.png": {
+    "file": "assets/profile-a942f6d7.png",
+    "src": "resources/images/profile.png"
+  },
+  "resources/images/tengah.png": {
+    "file": "assets/tengah-56887459.png",
+    "src": "resources/images/tengah.png"
+  },
+  "resources/js/app.js": {
+    "file": "assets/app-afb84b5f.js",
+    "isEntry": true,
+    "src": "resources/js/app.js"
+  },
+  "resources/sass/app.scss": {
+    "file": "assets/app-173a5db1.css",
+    "isEntry": true,
+    "src": "resources/sass/app.scss"
+  }
+}
